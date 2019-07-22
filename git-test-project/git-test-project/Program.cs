@@ -7,6 +7,8 @@ namespace git_test_project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Git hub project changed");
         }
     }
 }
